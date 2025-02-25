@@ -102,7 +102,7 @@ void inserirElemento()
 
 }
 
-// deve ser implementada como resposta ao exercicio
+// deve ser implementada como resposta ao exercicios
 void buscarElemento()
 {
 	int query = 0;
